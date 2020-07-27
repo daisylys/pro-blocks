@@ -13,6 +13,7 @@ export default () => (
     extra={
       <Link to="/">
         <Button type="primary">Back Home</Button>
+        <Button type="primary">for test 2020年7月27日</Button>
       </Link>
     }
   />
